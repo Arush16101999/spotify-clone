@@ -5,7 +5,7 @@ import DisplayAlbum from "./DisplayAlbum";
 import { albumsData } from "../assets/assets";
 
 const Display = () => {
-  const displayRef = useRef();
+  const displayRef = useRef(); // it is used to change the background color of the display without re-rendering the component
   const location = useLocation();
 
   // Getting the Id from the path
