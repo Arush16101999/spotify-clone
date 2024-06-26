@@ -21,12 +21,12 @@ A Spotify clone built with React.js, Context API, and Tailwind CSS. This project
 
 # Setup & Run
 ### ReactVite
-npm create vite@latest - this is not important if cloning the project
-npm i & npm run dev
+- npm create vite@latest - this is not important if cloning the project
+- npm i & npm run dev
 
 ### Tailwind CSS
-npm i -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p
+- npm i -D tailwindcss postcss autoprefixer
+- npx tailwindcss init -p
 
 # App Images
 
