@@ -16,8 +16,7 @@ A Spotify clone built with React.js, Context API, and Tailwind CSS. This project
 - Tailwind CSS
 - React Router (useParams, useLocation, useNavigate, Route, Routes) 
 
-# Deployed Link of Spotify Clone
-# https://spotify-clone-arush.netlify.app/
+# Deployed Link of Spotify Clone - # https://spotify-clone-arush.netlify.app/
 
 # App Images
 
