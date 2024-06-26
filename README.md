@@ -1,17 +1,20 @@
-# **Spotify Clone **
+# Spotify Clone 
 
-A Spotify clone built with React.js, Context API, and Tailwind CSS. This project aims to mimic the core functionalities of Spotify, providing a similar user interface and experience.
+A Spotify clone built with React.js, Context API, and Tailwind CSS. This project aims to mimic the core functionalities of Spotify using JS functions, providing a similar user interface and experience.
 
 # Features 
-1. 
-2. 
+1. Play & Pause songs
+2. Play Previous & Next Songs
+3. Seek Song with song durations
+4. Navigate through the buttons and routes
+5. Diplay Albums and songs according to the ID
 
-## Technologies
+# Technologies
 
-- React.js
+- React.js (useRef, usestate, useEffect)
 - Context API
 - Tailwind CSS
-- React Router
+- React Router (useParams, useLocation, useNavigate, Route, Routes) 
 
 # Deployed Link of Spotify Clone
 https://spotify-clone-arush.netlify.app/
