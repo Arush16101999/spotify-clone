@@ -33,8 +33,8 @@ const Navbar = () => {
           <p className="bg-black text=[15px] px-3 py-1 rounded-2xl cursor-pointer">
             Install App
           </p>
-          <p className="bg-purple-500  text-black w-7 h-7 rounded-full flex items-center justify-center">
-            D
+          <p className="bg-green-500  text-black w-7 h-7 rounded-full flex items-center justify-center">
+            A
           </p>
         </div>
       </div>
