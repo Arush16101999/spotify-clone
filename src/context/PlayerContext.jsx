@@ -22,6 +22,7 @@ const PlayerContextProvider = (props) => {
     },
   });
 
+  // UseEffect to calculate the song duration on Real time
   useEffect(() => {
     setTimeout(() => {
       audioRef.current.ontimeupdate = () => {
